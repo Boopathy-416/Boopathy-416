@@ -5,8 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-bpycreation-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/bpycreation/])
 [![Mail](https://img.shields.io/badge/boopathy1865gmail@mail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:boopathy1865@gmail.com)
 <br>
-
-<a href="https://docs.google.com/document/d/1VxzXQJ8pBDHhpsiT0JIzq8VOgtWDX9OVjJgp88OTrj0/edit?usp=sharing" /><h1>Resume LInk [!(https://docs.google.com/document/d/1VxzXQJ8pBDHhpsiT0JIzq8VOgtWDX9OVjJgp88OTrj0/edit?usp=sharing)] </h1>
+[ResumeBpy - Google Docs.pdf](https://github.com/user-attachments/files/18374890/ResumeBpy.-.Google.Docs.pdf)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Boopathy </strong></samp></h2>
 <h3 align='center'><strong><a href="https://boopathy-416.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
